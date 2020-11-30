@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f93d707d-0669-404f-8ae2-323568d8a520" name="Default Changelist" comment="" />
+    <list default="true" id="f93d707d-0669-404f-8ae2-323568d8a520" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +148,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606451180921</updated>
       <workItem from="1606451184425" duration="6512000" />
-      <workItem from="1606726316128" duration="2871000" />
+      <workItem from="1606726316128" duration="5270000" />
     </task>
     <servers />
   </component>
@@ -169,30 +172,30 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="296" y="77" key="#Test/0.25.1440.875@0.25.1440.875" timestamp="1606729334015" />
-    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606729377023">
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606729500437">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1606729377023" />
+    <state x="184" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1606729500436" />
     <state x="457" y="256" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606729316977">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="457" y="256" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.875@0.25.1440.875" timestamp="1606729316977" />
-    <state width="1398" height="228" key="GridCell.Tab.0.bottom" timestamp="1606729324475">
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom" timestamp="1606729492673">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1606729324475" />
-    <state width="1398" height="228" key="GridCell.Tab.0.center" timestamp="1606729324475">
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1606729492673" />
+    <state width="1398" height="228" key="GridCell.Tab.0.center" timestamp="1606729492672">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1606729324475" />
-    <state width="1398" height="228" key="GridCell.Tab.0.left" timestamp="1606729324474">
+    <state width="1398" height="228" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1606729492672" />
+    <state width="1398" height="228" key="GridCell.Tab.0.left" timestamp="1606729492672">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1606729324474" />
-    <state width="1398" height="228" key="GridCell.Tab.0.right" timestamp="1606729324475">
+    <state width="1398" height="228" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1606729492672" />
+    <state width="1398" height="228" key="GridCell.Tab.0.right" timestamp="1606729492673">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state width="1398" height="228" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1606729324475" />
+    <state width="1398" height="228" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1606729492673" />
     <state x="258" y="121" key="Maven.ArtifactSearchDialog" timestamp="1606452462730">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -205,10 +208,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="511" y="244" key="chooseDestDirectoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1606452393183" />
-    <state x="371" y="199" width="698" height="676" key="search.everywhere.popup" timestamp="1606465790106">
+    <state x="371" y="199" width="698" height="676" key="search.everywhere.popup" timestamp="1606730937386">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
-    <state x="371" y="199" width="698" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1606465790106" />
+    <state x="371" y="199" width="698" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1606730937386" />
     <state x="413" y="199" width="670" height="676" key="search.everywhere.popup/56.25.1384.875@56.25.1384.875" timestamp="1606451620976" />
   </component>
 </project>
